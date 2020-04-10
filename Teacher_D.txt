@@ -1,7 +1,13 @@
-TeacherD       
-                9   10  11  12  1   2   3   4   
-MONDAY          B   O   B   O   O   B   B   O
-TUESDAY         O   B   O   O   B   B   O   O                      
-WEDNESDAY       O   B   O   O   B   O   O   B
-THRUSDAY        B   O   B   B   O   O   B   O
-FRIDAY          O   O   B   O   O   B   O   B 
+
+
+                                                                            K18EN TIME-TABLE
+                                                                                                                                                
+                             DAYS         9-10       10-11       11-12        12-1        1-2         2-3         3-4         4-5     
+                                                                                                                                                
+                            MONDAY       Break       Other       Other       Other       Other       Break       Break     Teacher_D  
+                            TUESDAY      Other       Other     Teacher_D     Break       Other       Other       Other       Other    
+                           WEDNESDAY     Other       Other     Teacher_D     Other       Other       Break       Other       Break    
+                           THRUSDAY      Other       Other       Other       Other     Teacher_D     Break       Other       Break    
+                            FRIDAY       Break       Other       Other       Break       Other       Other       Other       Other    
+
+                            
